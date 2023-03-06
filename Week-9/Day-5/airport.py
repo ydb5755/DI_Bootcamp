@@ -29,6 +29,7 @@
 # next_flights : The list of Flights. Every future flights of the airplane, this list should always be sorted by datetime. (see below the Flight class)
 
 
+
 # Methods:
 
 # fly(self, destination)
